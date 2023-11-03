@@ -3,4 +3,11 @@
 
 
 # 使い方
+必要モジュール
+```
+flask
+flask_cors
+openpyxl
+```
+
 本プログラムのflask_app.pyとfrontendフォルダを[https://github.com/skgnt/model_aggregation](https://github.com/skgnt/model_aggregation)のrootディレクトリに配置して、flask_app.pyを十個することで使用可能です。
